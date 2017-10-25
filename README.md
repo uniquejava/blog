@@ -3,7 +3,7 @@ utilize github issues as my blog..
 
 ## update logs
 
-2017-10-24: heavy update on datatables: https://github.com/uniquejava/blog/issues/124
+2017-10-24: heavy update on angular datatables: https://github.com/uniquejava/blog/issues/124
 
 2017-09-30: updated JWT, passport-jwt, etc. see https://github.com/uniquejava/blog/issues/106
 
