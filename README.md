@@ -8,6 +8,8 @@ I will update each week (every 2 or 3 days), check here for a complete list:
 
 https://github.com/uniquejava/blog/issues
 
+2018-01-26: Thinking in OAuth2(我对OAuth2认证方式的思考): https://github.com/uniquejava/blog/issues/182
+
 2017-11-01: update shell notes(shell笔记): https://github.com/uniquejava/blog/issues/90
 
 2017-10-24: heavy update on angular datatables: https://github.com/uniquejava/blog/issues/124
